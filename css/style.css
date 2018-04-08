@@ -70,6 +70,33 @@ h3{
 	background-attachment: fixed;
 }
 
+/*    home button   */
+.more a {
+    font-size: 1em;
+    color: #fff;
+    padding: 0.7em 2.5em;
+    position: relative;
+    -webkit-backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none;
+    display: inline-block;
+    background: #00b3fe;
+    font-family: 'Roboto Condensed', sans-serif;
+    border: 2px solid #00b3fe;
+	-webkit-transition:.5s all;
+	-moz-transition:.5s all;
+	-o-transition:.5s all;
+	-ms-transition:.5s all;
+	transition:.5s all;
+}
+.more a:hover{
+	background:transparent;
+	-webkit-border-radius:30px;
+	-moz-border-radius:30px;
+	border-radius:30px;
+	 color: #00b3fe;;
+}
+
 /*   Button   */
 .btn-general{
 	border-color: #fff;
