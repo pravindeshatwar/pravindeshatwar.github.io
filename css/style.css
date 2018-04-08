@@ -36,7 +36,7 @@ h3{
 
 #home-cover{
 	height: 100%;
-	background-image: url("../img/graphic-web.png");
+	background-image: url("../img/graphic-web.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -190,7 +190,7 @@ margin: 0 0 10px 0;
 	width: 60%;
 	height: 700px;
 	float: right;
-	background-image: url(../img/Graphic.png);
+	background-image: url(../img/Graphic.jpg);
 	border-left: 200px solid #fff;
 	border-top: 700px solid transparent;
 	background-repeat: no-repeat;
